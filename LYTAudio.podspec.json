@@ -16,5 +16,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "LYTAudioPlayer/*.swift"
+  "source_files": "LYTAudioPlayer/LYTAudioPlayer/*.swift"
 }
